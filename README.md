@@ -6,6 +6,9 @@
 
 * White or lighter color filament will diffuse the light best.
 
+* 1 or 2 LED Pixels may need to be trimmed from the far end ->
+
+
 ## BOM
 * [WLED Controller](https://www.athom.tech/blank-1/wled-2812b-led-strip-controller)
 * [Side Emitting LED Strip - 5mm 72LEDs-M - 1m](https://www.aliexpress.us/item/3256804326430015.html)

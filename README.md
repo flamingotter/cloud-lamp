@@ -8,6 +8,8 @@
 
 * 1 or 2 LED Pixels may need to be trimmed from the far end ->
 
+* Slicer settings - 0.2 Layer height, 15% infill "Grid", 5mm Outer brim for adhesion.
+
 
 ## BOM
 * [WLED Controller](https://www.athom.tech/blank-1/wled-2812b-led-strip-controller)

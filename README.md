@@ -15,3 +15,5 @@
 * [WLED Controller](https://www.athom.tech/blank-1/wled-2812b-led-strip-controller)
 * [Side Emitting LED Strip - 5mm 72LEDs-M - 1m](https://www.aliexpress.us/item/3256804326430015.html)
 * [5v Power Supply](https://amzn.to/3uoYYFV)
+
+![Cloud Lamp in action](https://github.com/flamingotter/cloud-lamp/blob/main/images/cloud-lamp.jpg)

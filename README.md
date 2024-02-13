@@ -41,7 +41,7 @@
 ### Configure Button
 1. From WLED App click "Config"
 2. Click "Time & Macros"
-3. Scroll down to ["Button Actions"](https://github.com/flamingotter/cloud-lamp/blob/main/images/button config.png)
+3. Scroll down to ["Button Actions"](https://github.com/flamingotter/cloud-lamp/blob/main/images/button_config.png)
 4. For "Button 0" enter value `249` for "short on->off"
 5. For "Button 0" enter value `250` for "long on->off"
 6. Click "Save"

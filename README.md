@@ -17,3 +17,31 @@
 * [5v Power Supply](https://amzn.to/3uoYYFV)
 
 ![Cloud Lamp in action](https://github.com/flamingotter/cloud-lamp/blob/main/images/cloud_lamp.jpg)
+
+
+## Preset Config for Power on/off and Preset Scroll with physical button
+### Power Toggle
+1. From WLED App click "Presets"
+2. Click "+ Preset"
+3. Nmae preset "Power"
+4. Uncheck "Use current state"
+5. Paste into "API command" `T=2`
+6. "Save to ID" `250`
+7. Click "Save"
+
+### Scroll Presets
+1. From WLED App click "Presets"
+2. Click "+ Preset"
+3. Nmae preset "Scroll Preset"
+3. Uncheck "Use current state"
+4. Paste into "API command" `win&P1=1&P2=3PL=~` (Replace values of P1 and P2 with the first and last Present IDs that you want to scroll through)
+5. "Save to ID" `249`
+6. Click "Save"
+
+### Configure Button
+1. From WLED App click "Config"
+2. Click "Time & Macros"
+3. Scroll down to ["Button Actions"](https://github.com/flamingotter/cloud-lamp/blob/main/images/button config.png)
+4. For "Button 0" enter value `249` for "short on->off"
+5. For "Button 0" enter value `250` for "long on->off"
+6. Click "Save"

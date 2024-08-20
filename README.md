@@ -23,7 +23,7 @@
 ### Power Toggle
 1. From WLED App click "Presets"
 2. Click "+ Preset"
-3. Nmae preset "Power"
+3. Name preset "Power"
 4. Uncheck "Use current state"
 5. Paste into "API command" `T=2`
 6. "Save to ID" `250`
@@ -32,7 +32,7 @@
 ### Scroll Presets
 1. From WLED App click "Presets"
 2. Click "+ Preset"
-3. Nmae preset "Scroll Preset"
+3. Name preset "Scroll Preset"
 3. Uncheck "Use current state"
 4. Paste into "API command" `win&P1=1&P2=3PL=~` (Replace values of P1 and P2 with the first and last Present IDs that you want to scroll through)
 5. "Save to ID" `249`
